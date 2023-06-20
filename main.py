@@ -40,4 +40,4 @@ def predict():
         return render_template('index.html', prediction="Something went wrong")
 
 if __name__ == '__main__':
-    app.run(debug=True)pip
+    app.run(debug=True)
