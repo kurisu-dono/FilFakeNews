@@ -12,4 +12,9 @@
             "dest": "main.py"
         }
     ]
+    "functions": {
+      "api/**/*.py": {
+        "excludeFiles": "**/*.html"
+      }
+   }
 }
